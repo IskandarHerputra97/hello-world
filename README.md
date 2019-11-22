@@ -1,2 +1,3 @@
 # hello-world
-test
+
+Favorite color: Red
